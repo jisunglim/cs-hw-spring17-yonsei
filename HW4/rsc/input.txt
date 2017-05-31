@@ -1,0 +1,7 @@
+10
+i 50 car i 70 brown i 20 candy i 10 star i 30 snow i 60 tuna d d i 20 fish d
+7
+i 10 car i 20 brown i 30 candy d i 20 snow d d
+15
+i 20 air i 30 bag i 40 cat i 10 dog i 50 ear i 70 flag d d i 30 go i 20 hop i 20 ins i 70 jam i 90 kiwi d i 100 log
+
